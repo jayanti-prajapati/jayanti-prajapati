@@ -1,9 +1,5 @@
 <h1>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayanti-prajapati/jayanti-prajapati/main/.github/icons/hand-white.svg" />
-    <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.511.0/icons/hand.svg" width="28" height="28" />
-  </picture>
-  Hey, I'm Jay Prajapat
+  👋 Hey, I'm Jay Prajapat
 </h1>
 
 <p>
@@ -23,7 +19,7 @@
 
 <h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayanti-prajapati/jayanti-prajapati/main/.github/icons/wrench-white.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://lucide.dev/api/icons/wrench?color=ffffff&width=18&height=18" />
     <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.511.0/icons/wrench.svg" width="18" height="18" />
   </picture>
   What I Work With
@@ -55,7 +51,7 @@
 
 <h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayanti-prajapati/jayanti-prajapati/main/.github/icons/hammer-white.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://lucide.dev/api/icons/hammer?color=ffffff&width=18&height=18" />
     <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.511.0/icons/hammer.svg" width="18" height="18" />
   </picture>
   What I'm Building
@@ -76,7 +72,7 @@
 
 <h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayanti-prajapati/jayanti-prajapati/main/.github/icons/folder-open-white.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://lucide.dev/api/icons/folder-open?color=ffffff&width=18&height=18" />
     <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.511.0/icons/folder-open.svg" width="18" height="18" />
   </picture>
   Selected Projects
@@ -87,7 +83,7 @@
     <td width="50%">
       <h3>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayanti-prajapati/jayanti-prajapati/main/.github/icons/zap-white.svg" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://lucide.dev/api/icons/zap?color=ffffff&width=16&height=16" />
           <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.511.0/icons/zap.svg" width="16" height="16" />
         </picture>
         <a href="https://github.com/jayanti-prajapati/smart-ai-router">Smart AI Router</a>
@@ -105,7 +101,7 @@
     <td width="50%">
       <h3>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayanti-prajapati/jayanti-prajapati/main/.github/icons/smartphone-white.svg" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://lucide.dev/api/icons/smartphone?color=ffffff&width=16&height=16" />
           <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.511.0/icons/smartphone.svg" width="16" height="16" />
         </picture>
         <a href="https://github.com/jayanti-prajapati/CalorieTracker">CalorieTracker</a>
@@ -124,7 +120,7 @@
     <td width="50%">
       <h3>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayanti-prajapati/jayanti-prajapati/main/.github/icons/clock-white.svg" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://lucide.dev/api/icons/clock?color=ffffff&width=16&height=16" />
           <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.511.0/icons/clock.svg" width="16" height="16" />
         </picture>
         More coming soon...
@@ -142,7 +138,7 @@
 
 <h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayanti-prajapati/jayanti-prajapati/main/.github/icons/cloud-white.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://lucide.dev/api/icons/cloud?color=ffffff&width=18&height=18" />
     <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.511.0/icons/cloud.svg" width="18" height="18" />
   </picture>
   My AWS Journey
@@ -165,7 +161,7 @@
 
 <h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayanti-prajapati/jayanti-prajapati/main/.github/icons/landmark-white.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://lucide.dev/api/icons/landmark?color=ffffff&width=18&height=18" />
     <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.511.0/icons/landmark.svg" width="18" height="18" />
   </picture>
   Past Work & Contributions
@@ -188,7 +184,7 @@
 
 <h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayanti-prajapati/jayanti-prajapati/main/.github/icons/brain-white.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://lucide.dev/api/icons/brain?color=ffffff&width=18&height=18" />
     <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.511.0/icons/brain.svg" width="18" height="18" />
   </picture>
   What I'm Learning & Writing About
@@ -211,7 +207,7 @@
 
 <h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayanti-prajapati/jayanti-prajapati/main/.github/icons/lightbulb-white.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://lucide.dev/api/icons/lightbulb?color=ffffff&width=18&height=18" />
     <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.511.0/icons/lightbulb.svg" width="18" height="18" />
   </picture>
   My Approach
@@ -226,7 +222,7 @@
 
 <h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayanti-prajapati/jayanti-prajapati/main/.github/icons/globe-white.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://lucide.dev/api/icons/globe?color=ffffff&width=18&height=18" />
     <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.511.0/icons/globe.svg" width="18" height="18" />
   </picture>
   Find Me
