@@ -126,7 +126,11 @@ I like building practical products that solve real business problems.
   <a href="https://www.linkedin.com/in/jayy-p">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://dev.to/jayy_prajapat">
+    <img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
