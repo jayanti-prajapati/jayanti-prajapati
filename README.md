@@ -61,14 +61,44 @@ I like building practical products that solve real business problems.
 
 <table>
   <tr>
-    <td width="100%">
+  <td width="50%">
+      <h3><a href="https://github.com/jayanti-prajapati/smart-ai-router">✨ Smart AI Router - Package </a> <a href="https://www.npmjs.com/package/smart-ai-router"><img alt="npm" src="https://img.shields.io/npm/v/smart-ai-router?style=flat-square&logo=npm&logoColor=white&color=CB3837" /></a></h3>
+      <p>
+        Production-ready AI model router for Node.js + TypeScript.<br/>
+        Automatically classifies prompt complexity and routes to the cheapest model that can handle it.<br/>
+        Guards per-request and daily spend, retries on poor-quality output, and A/B tests models...<br/>
+      </p>
+      <p>
+        <b>Node.js · TypeScript · LLMs · OpenAI · Anthropic · npm</b>
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/jayanti-prajapati/CalorieTracker">🍎 CalorieTracker</a></h3>
+      <p>
+        AI-powered nutrition tracking mobile app.<br/>
+        Scan food with your camera and let AI identify items and calculate calories automatically.<br/>
+        Features a 15-day calendar dashboard, meal history, and macro tracking...<br/>
+      </p>
+      <p>
+        <b>React Native · TypeScript · Zustand · React Navigation · AI · iOS · Android</b>
+      </p>
+    </td>
+   
+  </tr>
+  <tr>
+     <td width="50%">
       <h3>🤖 AI Applications</h3>
       <p>
-        Exploring practical AI applications, agentic workflows and AI-powered SaaS experiences.
+        Building practical AI-powered products and agentic workflows.<br/>
+        Exploring how AI can be embedded into real SaaS products — from intelligent assistants to automated pipelines.<br/>
+        Focus areas include prompt engineering, LLM integrations, and RAG pipelines...<br/>
       </p>
       <p>
-        <b>AI · APIs · React · Node.js · Cloud</b>
+        <b>AI · LLMs · RAG · APIs · React · Node.js · Cloud</b>
       </p>
+    </td>
+    <td width="50%">
+      
     </td>
   </tr>
 </table>
@@ -88,6 +118,38 @@ I like building practical products that solve real business problems.
 <p>
   <b>AWS · Cloud Architecture · Serverless · Networking · Security · IAM · CI/CD · Cost Optimization · AI</b>
 </p>
+
+---
+
+<h2>🛠️ What I'm Building</h2>
+
+<p>
+I like building practical products that solve real business problems.
+</p>
+
+<ul>
+  <li><b>SaaS Products</b> — multi-tenant applications, subscriptions, billing and business platforms</li>
+  <li><b>AI Applications</b> — AI-powered workflows, assistants and product experiences</li>
+  <li><b>Cloud Systems</b> — AWS architecture, deployment, scalability and cost optimization</li>
+  <li><b>Developer Experiences</b> — reusable components, APIs, tooling and engineering systems</li>
+</ul>
+
+---
+
+<h2>💼 Past Work & Contributions</h2>
+
+<p>
+  15+ years of professional experience building products across EdTech, InsurTech, IoT, compliance, and SaaS — from early-stage startups to established enterprises.
+</p>
+
+<ul>
+  <li>Contributed to the core SDK at <b>EVERFI</b> powering educational courseware used across thousands of learners</li>
+  <li>Led frontend architecture and mentored engineers on React, TypeScript, Redux, and design systems</li>
+  <li>Built compliance training tools, ERP modules, and recurring billing systems at <b>LawRoom</b> and <b>Locanix</b></li>
+  <li>Developed IoT fleet management features with GPS tracking, route optimization, and real-time data processing</li>
+  <li>Delivered reinsurance and insurance lifecycle modules at <b>I-Engineering</b> from greenfield to production</li>
+  <li>Consistently shipped across full-stack: React, Node.js, TypeScript, AWS, ASP.NET, SQL, Docker, CI/CD</li>
+</ul>
 
 ---
 
@@ -130,7 +192,6 @@ I like building practical products that solve real business problems.
     <img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
