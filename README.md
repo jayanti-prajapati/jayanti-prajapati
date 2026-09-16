@@ -75,12 +75,12 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://lucide.dev/api/icons/folder-open?color=ffffff&width=18&height=18" />
     <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.511.0/icons/folder-open.svg" width="18" height="18" />
   </picture>
-  Selected Projects
+  Featured Projects
 </h2>
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="100%">
       <h3>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://lucide.dev/api/icons/zap?color=ffffff&width=16&height=16" />
@@ -98,7 +98,9 @@
         <b>Node.js · TypeScript · LLMs · OpenAI · Anthropic · npm</b>
       </p>
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+    <td width="100%">
       <h3>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://lucide.dev/api/icons/smartphone?color=ffffff&width=16&height=16" />
@@ -117,7 +119,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="100%">
       <h3>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://lucide.dev/api/icons/clock?color=ffffff&width=16&height=16" />
