@@ -233,19 +233,19 @@
 <p>
   <a href="https://github.com/jayanti-prajapati">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=181717" />
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=181717" />
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </picture>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/jayy-p">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://dev.to/jayy_prajapat">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Dev.to-ffffff?style=flat-square&logo=devdotto&logoColor=0A0A0A" />
-      <img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Dev.to-ffffff?style=for-the-badge&logo=devdotto&logoColor=0A0A0A" />
+      <img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
     </picture>
   </a>
 </p>
